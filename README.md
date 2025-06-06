@@ -2,6 +2,8 @@
 
 This game uses websockets and can support up to 100 players. 
 
+*Live website: https://pixel-web-socket-game.vercel.app/*
+
 ## Stack
 
 1. Uses React + tailwind 
