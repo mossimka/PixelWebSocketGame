@@ -1,4 +1,18 @@
-# React + TypeScript + Vite
+# PixelGameApp (uses websockets)
+
+This game uses websockets and can support up to 100 players. 
+
+## Stack
+
+1. Uses React + tailwind 
+2. Firebase realtime database
+3. Websockets
+
+## Screens
+![Game Screenshot](./public/screens/screen.png)
+
+
+## React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
